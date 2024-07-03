@@ -1,0 +1,3776 @@
+{
+    "IMG_1060.png17116911": {
+        "filename": "IMG_1060.png",
+        "size": 17116911,
+        "regions": [
+            {
+                "shape_attributes": {
+                    "name": "polygon",
+                    "all_points_x": [
+                        1139,
+                        1173,
+                        1857,
+                        1805
+                    ],
+                    "all_points_y": [
+                        740,
+                        3292,
+                        3280,
+                        718
+                    ]
+                },
+                "region_attributes": {
+                    "name": "not_defined",
+                    "type": "2",
+                    "image_quality": {
+                        "good": true,
+                        "frontal": true,
+                        "good_illumination": true
+                    }
+                }
+            }
+        ],
+        "file_attributes": {
+            "caption": "",
+            "public_domain": "no",
+            "image_url": ""
+        }
+    },
+    "IMG_1061.png12215400": {
+        "filename": "IMG_1061.png",
+        "size": 12215400,
+        "regions": [
+            {
+                "shape_attributes": {
+                    "name": "polygon",
+                    "all_points_x": [
+                        1281,
+                        1236,
+                        1896,
+                        1942
+                    ],
+                    "all_points_y": [
+                        814,
+                        3275,
+                        3309,
+                        820
+                    ]
+                },
+                "region_attributes": {
+                    "name": "not_defined",
+                    "type": "2",
+                    "image_quality": {
+                        "good": true,
+                        "frontal": true,
+                        "good_illumination": true
+                    }
+                }
+            }
+        ],
+        "file_attributes": {
+            "caption": "",
+            "public_domain": "no",
+            "image_url": ""
+        }
+    },
+    "IMG_1062.png15236763": {
+        "filename": "IMG_1062.png",
+        "size": 15236763,
+        "regions": [
+            {
+                "shape_attributes": {
+                    "name": "polygon",
+                    "all_points_x": [
+                        1196,
+                        1259,
+                        2039,
+                        1970
+                    ],
+                    "all_points_y": [
+                        649,
+                        3463,
+                        3434,
+                        621
+                    ]
+                },
+                "region_attributes": {
+                    "name": "not_defined",
+                    "type": "2",
+                    "image_quality": {
+                        "good": true,
+                        "frontal": true,
+                        "good_illumination": true
+                    }
+                }
+            }
+        ],
+        "file_attributes": {
+            "caption": "",
+            "public_domain": "no",
+            "image_url": ""
+        }
+    },
+    "IMG_1063.png12059468": {
+        "filename": "IMG_1063.png",
+        "size": 12059468,
+        "regions": [
+            {
+                "shape_attributes": {
+                    "name": "polygon",
+                    "all_points_x": [
+                        1071,
+                        1036,
+                        1834,
+                        1857
+                    ],
+                    "all_points_y": [
+                        666,
+                        3588,
+                        3571,
+                        626
+                    ]
+                },
+                "region_attributes": {
+                    "name": "not_defined",
+                    "type": "2",
+                    "image_quality": {
+                        "good": true,
+                        "frontal": true,
+                        "good_illumination": true
+                    }
+                }
+            }
+        ],
+        "file_attributes": {
+            "caption": "",
+            "public_domain": "no",
+            "image_url": ""
+        }
+    },
+    "IMG_1064.png13576411": {
+        "filename": "IMG_1064.png",
+        "size": 13576411,
+        "regions": [
+            {
+                "shape_attributes": {
+                    "name": "polygon",
+                    "all_points_x": [
+                        1082,
+                        1036,
+                        1834,
+                        1970
+                    ],
+                    "all_points_y": [
+                        712,
+                        3633,
+                        3673,
+                        718
+                    ]
+                },
+                "region_attributes": {
+                    "name": "not_defined",
+                    "type": "2",
+                    "image_quality": {
+                        "good": true,
+                        "frontal": true,
+                        "good_illumination": true
+                    }
+                }
+            }
+        ],
+        "file_attributes": {
+            "caption": "",
+            "public_domain": "no",
+            "image_url": ""
+        }
+    },
+    "IMG_1065.png12307677": {
+        "filename": "IMG_1065.png",
+        "size": 12307677,
+        "regions": [
+            {
+                "shape_attributes": {
+                    "name": "polygon",
+                    "all_points_x": [
+                        1088,
+                        1076,
+                        1720,
+                        1765
+                    ],
+                    "all_points_y": [
+                        695,
+                        2996,
+                        3018,
+                        695
+                    ]
+                },
+                "region_attributes": {
+                    "name": "not_defined",
+                    "type": "2",
+                    "image_quality": {
+                        "good": true,
+                        "frontal": true,
+                        "good_illumination": true
+                    }
+                }
+            }
+        ],
+        "file_attributes": {
+            "caption": "",
+            "public_domain": "no",
+            "image_url": ""
+        }
+    },
+    "IMG_1066.png13822980": {
+        "filename": "IMG_1066.png",
+        "size": 13822980,
+        "regions": [
+            {
+                "shape_attributes": {
+                    "name": "polygon",
+                    "all_points_x": [
+                        1116,
+                        1333,
+                        2107,
+                        1879
+                    ],
+                    "all_points_y": [
+                        598,
+                        3246,
+                        3161,
+                        558
+                    ]
+                },
+                "region_attributes": {
+                    "name": "not_defined",
+                    "type": "2",
+                    "image_quality": {
+                        "good": true,
+                        "frontal": true,
+                        "good_illumination": true
+                    }
+                }
+            }
+        ],
+        "file_attributes": {
+            "caption": "",
+            "public_domain": "no",
+            "image_url": ""
+        }
+    },
+    "IMG_1067.png13146888": {
+        "filename": "IMG_1067.png",
+        "size": 13146888,
+        "regions": [
+            {
+                "shape_attributes": {
+                    "name": "polygon",
+                    "all_points_x": [
+                        866,
+                        866,
+                        1720,
+                        1788
+                    ],
+                    "all_points_y": [
+                        421,
+                        3611,
+                        3628,
+                        416
+                    ]
+                },
+                "region_attributes": {
+                    "name": "not_defined",
+                    "type": "2",
+                    "image_quality": {
+                        "good": true,
+                        "frontal": true,
+                        "good_illumination": true
+                    }
+                }
+            }
+        ],
+        "file_attributes": {
+            "caption": "",
+            "public_domain": "no",
+            "image_url": ""
+        }
+    },
+    "IMG_1068.png13074671": {
+        "filename": "IMG_1068.png",
+        "size": 13074671,
+        "regions": [
+            {
+                "shape_attributes": {
+                    "name": "polygon",
+                    "all_points_x": [
+                        900,
+                        1059,
+                        1948,
+                        1817
+                    ],
+                    "all_points_y": [
+                        182,
+                        3434,
+                        3383,
+                        137
+                    ]
+                },
+                "region_attributes": {
+                    "name": "not_defined",
+                    "type": "3",
+                    "image_quality": {
+                        "good": true,
+                        "frontal": true,
+                        "good_illumination": true
+                    }
+                }
+            }
+        ],
+        "file_attributes": {
+            "caption": "",
+            "public_domain": "no",
+            "image_url": ""
+        }
+    },
+    "IMG_1069.png14893935": {
+        "filename": "IMG_1069.png",
+        "size": 14893935,
+        "regions": [
+            {
+                "shape_attributes": {
+                    "name": "polygon",
+                    "all_points_x": [
+                        945,
+                        1048,
+                        1811,
+                        1783
+                    ],
+                    "all_points_y": [
+                        644,
+                        3554,
+                        3525,
+                        626
+                    ]
+                },
+                "region_attributes": {
+                    "name": "not_defined",
+                    "type": "3",
+                    "image_quality": {
+                        "good": true,
+                        "frontal": true,
+                        "good_illumination": true
+                    }
+                }
+            }
+        ],
+        "file_attributes": {
+            "caption": "",
+            "public_domain": "no",
+            "image_url": ""
+        }
+    },
+    "IMG_1070.png13649444": {
+        "filename": "IMG_1070.png",
+        "size": 13649444,
+        "regions": [
+            {
+                "shape_attributes": {
+                    "name": "polygon",
+                    "all_points_x": [
+                        1014,
+                        991,
+                        1788,
+                        1783
+                    ],
+                    "all_points_y": [
+                        644,
+                        3485,
+                        3485,
+                        644
+                    ]
+                },
+                "region_attributes": {
+                    "name": "not_defined",
+                    "type": "3",
+                    "image_quality": {
+                        "good": true,
+                        "frontal": true,
+                        "good_illumination": true
+                    }
+                }
+            }
+        ],
+        "file_attributes": {
+            "caption": "",
+            "public_domain": "no",
+            "image_url": ""
+        }
+    },
+    "IMG_1071.png13380925": {
+        "filename": "IMG_1071.png",
+        "size": 13380925,
+        "regions": [
+            {
+                "shape_attributes": {
+                    "name": "polygon",
+                    "all_points_x": [
+                        1014,
+                        980,
+                        1720,
+                        1726
+                    ],
+                    "all_points_y": [
+                        552,
+                        3075,
+                        3081,
+                        541
+                    ]
+                },
+                "region_attributes": {
+                    "name": "not_defined",
+                    "type": "3",
+                    "image_quality": {
+                        "good": true,
+                        "frontal": true,
+                        "good_illumination": true
+                    }
+                }
+            }
+        ],
+        "file_attributes": {
+            "caption": "",
+            "public_domain": "no",
+            "image_url": ""
+        }
+    },
+    "IMG_1072.png12977437": {
+        "filename": "IMG_1072.png",
+        "size": 12977437,
+        "regions": [
+            {
+                "shape_attributes": {
+                    "name": "polygon",
+                    "all_points_x": [
+                        877,
+                        1014,
+                        1851,
+                        1800
+                    ],
+                    "all_points_y": [
+                        410,
+                        3542,
+                        3525,
+                        399
+                    ]
+                },
+                "region_attributes": {
+                    "name": "not_defined",
+                    "type": "3",
+                    "image_quality": {
+                        "good": true,
+                        "frontal": true,
+                        "good_illumination": true
+                    }
+                }
+            }
+        ],
+        "file_attributes": {
+            "caption": "",
+            "public_domain": "no",
+            "image_url": ""
+        }
+    },
+    "IMG_1073.png13626264": {
+        "filename": "IMG_1073.png",
+        "size": 13626264,
+        "regions": [
+            {
+                "shape_attributes": {
+                    "name": "polygon",
+                    "all_points_x": [
+                        1105,
+                        1167,
+                        1851,
+                        1811
+                    ],
+                    "all_points_y": [
+                        461,
+                        3001,
+                        3024,
+                        444
+                    ]
+                },
+                "region_attributes": {
+                    "name": "not_defined",
+                    "type": "3",
+                    "image_quality": {
+                        "good": true,
+                        "frontal": true,
+                        "good_illumination": true
+                    }
+                }
+            }
+        ],
+        "file_attributes": {
+            "caption": "",
+            "public_domain": "no",
+            "image_url": ""
+        }
+    },
+    "IMG_1074.png12813120": {
+        "filename": "IMG_1074.png",
+        "size": 12813120,
+        "regions": [
+            {
+                "shape_attributes": {
+                    "name": "polygon",
+                    "all_points_x": [
+                        1196,
+                        1162,
+                        1988,
+                        2130
+                    ],
+                    "all_points_y": [
+                        399,
+                        3565,
+                        3548,
+                        382
+                    ]
+                },
+                "region_attributes": {
+                    "name": "not_defined",
+                    "type": "3",
+                    "image_quality": {
+                        "good": true,
+                        "frontal": true,
+                        "good_illumination": true
+                    }
+                }
+            }
+        ],
+        "file_attributes": {
+            "caption": "",
+            "public_domain": "no",
+            "image_url": ""
+        }
+    },
+    "IMG_1075.png14109277": {
+        "filename": "IMG_1075.png",
+        "size": 14109277,
+        "regions": [
+            {
+                "shape_attributes": {
+                    "name": "polygon",
+                    "all_points_x": [
+                        1059,
+                        1139,
+                        1908,
+                        1874
+                    ],
+                    "all_points_y": [
+                        530,
+                        3314,
+                        3292,
+                        490
+                    ]
+                },
+                "region_attributes": {
+                    "name": "not_defined",
+                    "type": "8",
+                    "image_quality": {
+                        "good": true,
+                        "frontal": true,
+                        "good_illumination": true
+                    }
+                }
+            }
+        ],
+        "file_attributes": {
+            "caption": "",
+            "public_domain": "no",
+            "image_url": ""
+        }
+    },
+    "IMG_1076.png12287793": {
+        "filename": "IMG_1076.png",
+        "size": 12287793,
+        "regions": [
+            {
+                "shape_attributes": {
+                    "name": "polygon",
+                    "all_points_x": [
+                        792,
+                        911,
+                        1839,
+                        1737
+                    ],
+                    "all_points_y": [
+                        484,
+                        3781,
+                        3724,
+                        421
+                    ]
+                },
+                "region_attributes": {
+                    "name": "not_defined",
+                    "type": "9",
+                    "image_quality": {
+                        "good": true,
+                        "frontal": true,
+                        "good_illumination": true
+                    }
+                }
+            }
+        ],
+        "file_attributes": {
+            "caption": "",
+            "public_domain": "no",
+            "image_url": ""
+        }
+    },
+    "IMG_1077.png13283218": {
+        "filename": "IMG_1077.png",
+        "size": 13283218,
+        "regions": [
+            {
+                "shape_attributes": {
+                    "name": "polygon",
+                    "all_points_x": [
+                        1167,
+                        877,
+                        1652,
+                        1925
+                    ],
+                    "all_points_y": [
+                        655,
+                        3417,
+                        3514,
+                        740
+                    ]
+                },
+                "region_attributes": {
+                    "name": "not_defined",
+                    "type": "6",
+                    "image_quality": {
+                        "good": true,
+                        "frontal": true,
+                        "good_illumination": true
+                    }
+                }
+            }
+        ],
+        "file_attributes": {
+            "caption": "",
+            "public_domain": "no",
+            "image_url": ""
+        }
+    },
+    "IMG_1078.png13779732": {
+        "filename": "IMG_1078.png",
+        "size": 13779732,
+        "regions": [
+            {
+                "shape_attributes": {
+                    "name": "polygon",
+                    "all_points_x": [
+                        1156,
+                        1179,
+                        1988,
+                        1970
+                    ],
+                    "all_points_y": [
+                        689,
+                        3622,
+                        3611,
+                        655
+                    ]
+                },
+                "region_attributes": {
+                    "name": "not_defined",
+                    "type": "10",
+                    "image_quality": {
+                        "good": true,
+                        "frontal": true,
+                        "good_illumination": true
+                    }
+                }
+            }
+        ],
+        "file_attributes": {
+            "caption": "",
+            "public_domain": "no",
+            "image_url": ""
+        }
+    },
+    "IMG_1079.png13398963": {
+        "filename": "IMG_1079.png",
+        "size": 13398963,
+        "regions": [
+            {
+                "shape_attributes": {
+                    "name": "polygon",
+                    "all_points_x": [
+                        1031,
+                        991,
+                        1874,
+                        1879
+                    ],
+                    "all_points_y": [
+                        461,
+                        3554,
+                        3542,
+                        444
+                    ]
+                },
+                "region_attributes": {
+                    "name": "not_defined",
+                    "type": "1",
+                    "image_quality": {
+                        "good": true,
+                        "frontal": true,
+                        "good_illumination": true
+                    }
+                }
+            }
+        ],
+        "file_attributes": {
+            "caption": "",
+            "public_domain": "no",
+            "image_url": ""
+        }
+    },
+    "IMG_1080.png14863068": {
+        "filename": "IMG_1080.png",
+        "size": 14863068,
+        "regions": [
+            {
+                "shape_attributes": {
+                    "name": "polygon",
+                    "all_points_x": [
+                        900,
+                        1054,
+                        1663,
+                        1521
+                    ],
+                    "all_points_y": [
+                        951,
+                        3018,
+                        2973,
+                        917
+                    ]
+                },
+                "region_attributes": {
+                    "name": "not_defined",
+                    "type": "5",
+                    "image_quality": {
+                        "good": true,
+                        "frontal": true,
+                        "good_illumination": true
+                    }
+                }
+            }
+        ],
+        "file_attributes": {
+            "caption": "",
+            "public_domain": "no",
+            "image_url": ""
+        }
+    },
+    "IMG_1081.png14098502": {
+        "filename": "IMG_1081.png",
+        "size": 14098502,
+        "regions": [
+            {
+                "shape_attributes": {
+                    "name": "polygon",
+                    "all_points_x": [
+                        957,
+                        1190,
+                        1919,
+                        1691
+                    ],
+                    "all_points_y": [
+                        410,
+                        3001,
+                        2939,
+                        336
+                    ]
+                },
+                "region_attributes": {
+                    "name": "not_defined",
+                    "type": "7",
+                    "image_quality": {
+                        "good": true,
+                        "frontal": true,
+                        "good_illumination": true
+                    }
+                }
+            }
+        ],
+        "file_attributes": {
+            "caption": "",
+            "public_domain": "no",
+            "image_url": ""
+        }
+    },
+    "IMG_1082.png13559278": {
+        "filename": "IMG_1082.png",
+        "size": 13559278,
+        "regions": [
+            {
+                "shape_attributes": {
+                    "name": "polygon",
+                    "all_points_x": [
+                        980,
+                        1048,
+                        1788,
+                        1720
+                    ],
+                    "all_points_y": [
+                        689,
+                        3377,
+                        3371,
+                        638
+                    ]
+                },
+                "region_attributes": {
+                    "name": "not_defined",
+                    "type": "7",
+                    "image_quality": {
+                        "good": true,
+                        "frontal": true,
+                        "good_illumination": true
+                    }
+                }
+            }
+        ],
+        "file_attributes": {
+            "caption": "",
+            "public_domain": "no",
+            "image_url": ""
+        }
+    },
+    "IMG_1083.png14074390": {
+        "filename": "IMG_1083.png",
+        "size": 14074390,
+        "regions": [
+            {
+                "shape_attributes": {
+                    "name": "polygon",
+                    "all_points_x": [
+                        1036,
+                        940,
+                        1697,
+                        1788
+                    ],
+                    "all_points_y": [
+                        524,
+                        3303,
+                        3320,
+                        564
+                    ]
+                },
+                "region_attributes": {
+                    "name": "not_defined",
+                    "type": "5",
+                    "image_quality": {
+                        "good": true,
+                        "frontal": true,
+                        "good_illumination": true
+                    }
+                }
+            }
+        ],
+        "file_attributes": {
+            "caption": "",
+            "public_domain": "no",
+            "image_url": ""
+        }
+    },
+    "IMG_1084.png13411598": {
+        "filename": "IMG_1084.png",
+        "size": 13411598,
+        "regions": [
+            {
+                "shape_attributes": {
+                    "name": "polygon",
+                    "all_points_x": [
+                        923,
+                        911,
+                        1811,
+                        1839
+                    ],
+                    "all_points_y": [
+                        410,
+                        3559,
+                        3548,
+                        382
+                    ]
+                },
+                "region_attributes": {
+                    "name": "not_defined",
+                    "type": "1",
+                    "image_quality": {
+                        "good": true,
+                        "frontal": true,
+                        "good_illumination": true
+                    }
+                }
+            }
+        ],
+        "file_attributes": {
+            "caption": "",
+            "public_domain": "no",
+            "image_url": ""
+        }
+    },
+    "IMG_1085.png14461204": {
+        "filename": "IMG_1085.png",
+        "size": 14461204,
+        "regions": [
+            {
+                "shape_attributes": {
+                    "name": "polygon",
+                    "all_points_x": [
+                        1002,
+                        1042,
+                        1874,
+                        1834
+                    ],
+                    "all_points_y": [
+                        558,
+                        3434,
+                        3406,
+                        558
+                    ]
+                },
+                "region_attributes": {
+                    "name": "not_defined",
+                    "type": "10",
+                    "image_quality": {
+                        "good": true,
+                        "frontal": true,
+                        "good_illumination": true
+                    }
+                }
+            }
+        ],
+        "file_attributes": {
+            "caption": "",
+            "public_domain": "no",
+            "image_url": ""
+        }
+    },
+    "IMG_1086.png14176392": {
+        "filename": "IMG_1086.png",
+        "size": 14176392,
+        "regions": [
+            {
+                "shape_attributes": {
+                    "name": "polygon",
+                    "all_points_x": [
+                        1133,
+                        843,
+                        1634,
+                        1948
+                    ],
+                    "all_points_y": [
+                        433,
+                        3366,
+                        3445,
+                        513
+                    ]
+                },
+                "region_attributes": {
+                    "name": "not_defined",
+                    "type": "6",
+                    "image_quality": {
+                        "good": true,
+                        "frontal": true,
+                        "good_illumination": true
+                    }
+                }
+            }
+        ],
+        "file_attributes": {
+            "caption": "",
+            "public_domain": "no",
+            "image_url": ""
+        }
+    },
+    "IMG_1087.png13822384": {
+        "filename": "IMG_1087.png",
+        "size": 13822384,
+        "regions": [
+            {
+                "shape_attributes": {
+                    "name": "polygon",
+                    "all_points_x": [
+                        1145,
+                        1019,
+                        1862,
+                        1931
+                    ],
+                    "all_points_y": [
+                        552,
+                        3508,
+                        3559,
+                        564
+                    ]
+                },
+                "region_attributes": {
+                    "name": "not_defined",
+                    "type": "9",
+                    "image_quality": {
+                        "good": true,
+                        "frontal": true,
+                        "good_illumination": true
+                    }
+                }
+            }
+        ],
+        "file_attributes": {
+            "caption": "",
+            "public_domain": "no",
+            "image_url": ""
+        }
+    },
+    "IMG_1088.png12474727": {
+        "filename": "IMG_1088.png",
+        "size": 12474727,
+        "regions": [
+            {
+                "shape_attributes": {
+                    "name": "polygon",
+                    "all_points_x": [
+                        1105,
+                        1036,
+                        1731,
+                        1811
+                    ],
+                    "all_points_y": [
+                        866,
+                        3383,
+                        3406,
+                        843
+                    ]
+                },
+                "region_attributes": {
+                    "name": "not_defined",
+                    "type": "8",
+                    "image_quality": {
+                        "good": true,
+                        "frontal": true,
+                        "good_illumination": true
+                    }
+                }
+            }
+        ],
+        "file_attributes": {
+            "caption": "",
+            "public_domain": "no",
+            "image_url": ""
+        }
+    },
+    "IMG_1089.png13035271": {
+        "filename": "IMG_1089.png",
+        "size": 13035271,
+        "regions": [
+            {
+                "shape_attributes": {
+                    "name": "polygon",
+                    "all_points_x": [
+                        928,
+                        991,
+                        1760,
+                        1760
+                    ],
+                    "all_points_y": [
+                        626,
+                        3514,
+                        3508,
+                        575
+                    ]
+                },
+                "region_attributes": {
+                    "name": "not_defined",
+                    "type": "4",
+                    "image_quality": {
+                        "good": true,
+                        "frontal": true,
+                        "good_illumination": true
+                    }
+                }
+            }
+        ],
+        "file_attributes": {
+            "caption": "",
+            "public_domain": "no",
+            "image_url": ""
+        }
+    },
+    "IMG_1090.png13633805": {
+        "filename": "IMG_1090.png",
+        "size": 13633805,
+        "regions": [
+            {
+                "shape_attributes": {
+                    "name": "polygon",
+                    "all_points_x": [
+                        1167,
+                        1105,
+                        1902,
+                        1999
+                    ],
+                    "all_points_y": [
+                        598,
+                        3559,
+                        3611,
+                        587
+                    ]
+                },
+                "region_attributes": {
+                    "name": "not_defined",
+                    "type": "3",
+                    "image_quality": {
+                        "good": true,
+                        "frontal": true,
+                        "good_illumination": true
+                    }
+                }
+            }
+        ],
+        "file_attributes": {
+            "caption": "",
+            "public_domain": "no",
+            "image_url": ""
+        }
+    },
+    "IMG_1095.png14651792": {
+        "filename": "IMG_1095.png",
+        "size": 14651792,
+        "regions": [
+            {
+                "shape_attributes": {
+                    "name": "polygon",
+                    "all_points_x": [
+                        1162,
+                        1219,
+                        1993,
+                        1982
+                    ],
+                    "all_points_y": [
+                        541,
+                        3314,
+                        3292,
+                        524
+                    ]
+                },
+                "region_attributes": {
+                    "name": "not_defined",
+                    "type": "3",
+                    "image_quality": {
+                        "good": true,
+                        "frontal": true,
+                        "good_illumination": true
+                    }
+                }
+            }
+        ],
+        "file_attributes": {
+            "caption": "",
+            "public_domain": "no",
+            "image_url": ""
+        }
+    },
+    "IMG_1097.png13700192": {
+        "filename": "IMG_1097.png",
+        "size": 13700192,
+        "regions": [
+            {
+                "shape_attributes": {
+                    "name": "polygon",
+                    "all_points_x": [
+                        1196,
+                        1122,
+                        1896,
+                        2039
+                    ],
+                    "all_points_y": [
+                        473,
+                        3354,
+                        3406,
+                        490
+                    ]
+                },
+                "region_attributes": {
+                    "name": "not_defined",
+                    "type": "6",
+                    "image_quality": {
+                        "good": true,
+                        "frontal": true,
+                        "good_illumination": true
+                    }
+                }
+            }
+        ],
+        "file_attributes": {
+            "caption": "",
+            "public_domain": "no",
+            "image_url": ""
+        }
+    },
+    "IMG_1098.png14071517": {
+        "filename": "IMG_1098.png",
+        "size": 14071517,
+        "regions": [
+            {
+                "shape_attributes": {
+                    "name": "polygon",
+                    "all_points_x": [
+                        1185,
+                        1105,
+                        1925,
+                        1988
+                    ],
+                    "all_points_y": [
+                        495,
+                        3377,
+                        3377,
+                        490
+                    ]
+                },
+                "region_attributes": {
+                    "name": "not_defined",
+                    "type": "10",
+                    "image_quality": {
+                        "good": true,
+                        "frontal": true,
+                        "good_illumination": true
+                    }
+                }
+            }
+        ],
+        "file_attributes": {
+            "caption": "",
+            "public_domain": "no",
+            "image_url": ""
+        }
+    },
+    "IMG_1099.png13579339": {
+        "filename": "IMG_1099.png",
+        "size": 13579339,
+        "regions": [
+            {
+                "shape_attributes": {
+                    "name": "polygon",
+                    "all_points_x": [
+                        1156,
+                        1139,
+                        2016,
+                        2096
+                    ],
+                    "all_points_y": [
+                        461,
+                        3428,
+                        3474,
+                        433
+                    ]
+                },
+                "region_attributes": {
+                    "name": "not_defined",
+                    "type": "1",
+                    "image_quality": {
+                        "good": true,
+                        "frontal": true,
+                        "good_illumination": true
+                    }
+                }
+            }
+        ],
+        "file_attributes": {
+            "caption": "",
+            "public_domain": "no",
+            "image_url": ""
+        }
+    },
+    "IMG_1100.png14413131": {
+        "filename": "IMG_1100.png",
+        "size": 14413131,
+        "regions": [
+            {
+                "shape_attributes": {
+                    "name": "polygon",
+                    "all_points_x": [
+                        1173,
+                        1082,
+                        1845,
+                        1976
+                    ],
+                    "all_points_y": [
+                        849,
+                        3656,
+                        3690,
+                        843
+                    ]
+                },
+                "region_attributes": {
+                    "name": "not_defined",
+                    "type": "5",
+                    "image_quality": {
+                        "good": true,
+                        "frontal": true,
+                        "good_illumination": true
+                    }
+                }
+            }
+        ],
+        "file_attributes": {
+            "caption": "",
+            "public_domain": "no",
+            "image_url": ""
+        }
+    },
+    "IMG_1101.png13868748": {
+        "filename": "IMG_1101.png",
+        "size": 13868748,
+        "regions": [
+            {
+                "shape_attributes": {
+                    "name": "polygon",
+                    "all_points_x": [
+                        1355,
+                        1162,
+                        1965,
+                        2215
+                    ],
+                    "all_points_y": [
+                        581,
+                        3474,
+                        3531,
+                        661
+                    ]
+                },
+                "region_attributes": {
+                    "name": "not_defined",
+                    "type": "7",
+                    "image_quality": {
+                        "good": true,
+                        "frontal": true,
+                        "good_illumination": true
+                    }
+                }
+            }
+        ],
+        "file_attributes": {
+            "caption": "",
+            "public_domain": "no",
+            "image_url": ""
+        }
+    },
+    "IMG_1102.png12998290": {
+        "filename": "IMG_1102.png",
+        "size": 12998290,
+        "regions": [
+            {
+                "shape_attributes": {
+                    "name": "polygon",
+                    "all_points_x": [
+                        1099,
+                        1042,
+                        1982,
+                        2079
+                    ],
+                    "all_points_y": [
+                        251,
+                        3611,
+                        3605,
+                        268
+                    ]
+                },
+                "region_attributes": {
+                    "name": "not_defined",
+                    "type": "9",
+                    "image_quality": {
+                        "good": true,
+                        "frontal": true,
+                        "good_illumination": true
+                    }
+                }
+            }
+        ],
+        "file_attributes": {
+            "caption": "",
+            "public_domain": "no",
+            "image_url": ""
+        }
+    },
+    "IMG_1103.png13589574": {
+        "filename": "IMG_1103.png",
+        "size": 13589574,
+        "regions": [
+            {
+                "shape_attributes": {
+                    "name": "polygon",
+                    "all_points_x": [
+                        1156,
+                        1025,
+                        1851,
+                        1988
+                    ],
+                    "all_points_y": [
+                        490,
+                        3485,
+                        3531,
+                        518
+                    ]
+                },
+                "region_attributes": {
+                    "name": "not_defined",
+                    "type": "4",
+                    "image_quality": {
+                        "good": true,
+                        "frontal": true,
+                        "good_illumination": true
+                    }
+                }
+            }
+        ],
+        "file_attributes": {
+            "caption": "",
+            "public_domain": "no",
+            "image_url": ""
+        }
+    },
+    "IMG_1104.png13097971": {
+        "filename": "IMG_1104.png",
+        "size": 13097971,
+        "regions": [
+            {
+                "shape_attributes": {
+                    "name": "polygon",
+                    "all_points_x": [
+                        1002,
+                        957,
+                        1691,
+                        1783
+                    ],
+                    "all_points_y": [
+                        706,
+                        3388,
+                        3383,
+                        706
+                    ]
+                },
+                "region_attributes": {
+                    "name": "not_defined",
+                    "type": "4",
+                    "image_quality": {
+                        "good": true,
+                        "frontal": true,
+                        "good_illumination": true
+                    }
+                }
+            }
+        ],
+        "file_attributes": {
+            "caption": "",
+            "public_domain": "no",
+            "image_url": ""
+        }
+    },
+    "IMG_1105.png12999380": {
+        "filename": "IMG_1105.png",
+        "size": 12999380,
+        "regions": [
+            {
+                "shape_attributes": {
+                    "name": "polygon",
+                    "all_points_x": [
+                        877,
+                        923,
+                        1652,
+                        1657
+                    ],
+                    "all_points_y": [
+                        535,
+                        3075,
+                        3092,
+                        530
+                    ]
+                },
+                "region_attributes": {
+                    "name": "not_defined",
+                    "type": "5",
+                    "image_quality": {
+                        "good": true,
+                        "frontal": true,
+                        "good_illumination": true
+                    }
+                }
+            }
+        ],
+        "file_attributes": {
+            "caption": "",
+            "public_domain": "no",
+            "image_url": ""
+        }
+    },
+    "IMG_1106.png12592602": {
+        "filename": "IMG_1106.png",
+        "size": 12592602,
+        "regions": [
+            {
+                "shape_attributes": {
+                    "name": "polygon",
+                    "all_points_x": [
+                        1048,
+                        1133,
+                        1925,
+                        1885
+                    ],
+                    "all_points_y": [
+                        723,
+                        3502,
+                        3474,
+                        757
+                    ]
+                },
+                "region_attributes": {
+                    "name": "not_defined",
+                    "type": "1",
+                    "image_quality": {
+                        "good": true,
+                        "frontal": true,
+                        "good_illumination": true
+                    }
+                }
+            }
+        ],
+        "file_attributes": {
+            "caption": "",
+            "public_domain": "no",
+            "image_url": ""
+        }
+    },
+    "IMG_1107.png12835583": {
+        "filename": "IMG_1107.png",
+        "size": 12835583,
+        "regions": [
+            {
+                "shape_attributes": {
+                    "name": "polygon",
+                    "all_points_x": [
+                        1019,
+                        980,
+                        1788,
+                        1834
+                    ],
+                    "all_points_y": [
+                        518,
+                        3263,
+                        3292,
+                        547
+                    ]
+                },
+                "region_attributes": {
+                    "name": "not_defined",
+                    "type": "10",
+                    "image_quality": {
+                        "good": true,
+                        "frontal": true,
+                        "good_illumination": true
+                    }
+                }
+            }
+        ],
+        "file_attributes": {
+            "caption": "",
+            "public_domain": "no",
+            "image_url": ""
+        }
+    },
+    "IMG_1108.png11947777": {
+        "filename": "IMG_1108.png",
+        "size": 11947777,
+        "regions": [
+            {
+                "shape_attributes": {
+                    "name": "polygon",
+                    "all_points_x": [
+                        1048,
+                        1036,
+                        1834,
+                        1845
+                    ],
+                    "all_points_y": [
+                        649,
+                        3571,
+                        3565,
+                        649
+                    ]
+                },
+                "region_attributes": {
+                    "name": "not_defined",
+                    "type": "3",
+                    "image_quality": {
+                        "good": true,
+                        "frontal": true,
+                        "good_illumination": true
+                    }
+                }
+            }
+        ],
+        "file_attributes": {
+            "caption": "",
+            "public_domain": "no",
+            "image_url": ""
+        }
+    },
+    "IMG_1109.png13424997": {
+        "filename": "IMG_1109.png",
+        "size": 13424997,
+        "regions": [
+            {
+                "shape_attributes": {
+                    "name": "polygon",
+                    "all_points_x": [
+                        1304,
+                        1355,
+                        2073,
+                        1976
+                    ],
+                    "all_points_y": [
+                        968,
+                        3297,
+                        3269,
+                        894
+                    ]
+                },
+                "region_attributes": {
+                    "name": "not_defined",
+                    "type": "9",
+                    "image_quality": {
+                        "good": true,
+                        "frontal": true,
+                        "good_illumination": true
+                    }
+                }
+            }
+        ],
+        "file_attributes": {
+            "caption": "",
+            "public_domain": "no",
+            "image_url": ""
+        }
+    },
+    "IMG_1110.png12646001": {
+        "filename": "IMG_1110.png",
+        "size": 12646001,
+        "regions": [
+            {
+                "shape_attributes": {
+                    "name": "polygon",
+                    "all_points_x": [
+                        1344,
+                        1219,
+                        1970,
+                        2107
+                    ],
+                    "all_points_y": [
+                        632,
+                        3343,
+                        3377,
+                        678
+                    ]
+                },
+                "region_attributes": {
+                    "name": "not_defined",
+                    "type": "7",
+                    "image_quality": {
+                        "good": true,
+                        "frontal": true,
+                        "good_illumination": true
+                    }
+                }
+            }
+        ],
+        "file_attributes": {
+            "caption": "",
+            "public_domain": "no",
+            "image_url": ""
+        }
+    },
+    "IMG_1111.png12704781": {
+        "filename": "IMG_1111.png",
+        "size": 12704781,
+        "regions": [
+            {
+                "shape_attributes": {
+                    "name": "polygon",
+                    "all_points_x": [
+                        1270,
+                        945,
+                        1720,
+                        2050
+                    ],
+                    "all_points_y": [
+                        632,
+                        3366,
+                        3428,
+                        723
+                    ]
+                },
+                "region_attributes": {
+                    "name": "not_defined",
+                    "type": "6",
+                    "image_quality": {
+                        "good": true,
+                        "frontal": true,
+                        "good_illumination": true
+                    }
+                }
+            }
+        ],
+        "file_attributes": {
+            "caption": "",
+            "public_domain": "no",
+            "image_url": ""
+        }
+    },
+    "IMG_1112.png12635744": {
+        "filename": "IMG_1112.png",
+        "size": 12635744,
+        "regions": [
+            {
+                "shape_attributes": {
+                    "name": "polygon",
+                    "all_points_x": [
+                        1150,
+                        883,
+                        1714,
+                        1970
+                    ],
+                    "all_points_y": [
+                        615,
+                        3417,
+                        3468,
+                        655
+                    ]
+                },
+                "region_attributes": {
+                    "name": "not_defined",
+                    "type": "8",
+                    "image_quality": {
+                        "good": true,
+                        "frontal": true,
+                        "good_illumination": true
+                    }
+                }
+            }
+        ],
+        "file_attributes": {
+            "caption": "",
+            "public_domain": "no",
+            "image_url": ""
+        }
+    },
+    "IMG_1123.png17404911": {
+        "filename": "IMG_1123.png",
+        "size": 17404911,
+        "regions": [
+            {
+                "shape_attributes": {
+                    "name": "polygon",
+                    "all_points_x": [
+                        1093,
+                        1076,
+                        1743,
+                        1748
+                    ],
+                    "all_points_y": [
+                        1059,
+                        3337,
+                        3303,
+                        1008
+                    ]
+                },
+                "region_attributes": {
+                    "name": "not_defined",
+                    "type": "7",
+                    "image_quality": {
+                        "good": true,
+                        "frontal": true,
+                        "good_illumination": true
+                    }
+                }
+            }
+        ],
+        "file_attributes": {
+            "caption": "",
+            "public_domain": "no",
+            "image_url": ""
+        }
+    },
+    "IMG_1124.png17183766": {
+        "filename": "IMG_1124.png",
+        "size": 17183766,
+        "regions": [
+            {
+                "shape_attributes": {
+                    "name": "polygon",
+                    "all_points_x": [
+                        1133,
+                        1167,
+                        1845,
+                        1765
+                    ],
+                    "all_points_y": [
+                        786,
+                        3001,
+                        2973,
+                        740
+                    ]
+                },
+                "region_attributes": {
+                    "name": "not_defined",
+                    "type": "6",
+                    "image_quality": {
+                        "good": true,
+                        "frontal": true,
+                        "good_illumination": true
+                    }
+                }
+            }
+        ],
+        "file_attributes": {
+            "caption": "",
+            "public_domain": "no",
+            "image_url": ""
+        }
+    },
+    "IMG_1125.png17506666": {
+        "filename": "IMG_1125.png",
+        "size": 17506666,
+        "regions": [
+            {
+                "shape_attributes": {
+                    "name": "polygon",
+                    "all_points_x": [
+                        1196,
+                        1418,
+                        2056,
+                        1885
+                    ],
+                    "all_points_y": [
+                        530,
+                        2978,
+                        2933,
+                        484
+                    ]
+                },
+                "region_attributes": {
+                    "name": "not_defined",
+                    "type": "9",
+                    "image_quality": {
+                        "good": true,
+                        "frontal": true,
+                        "good_illumination": true
+                    }
+                }
+            }
+        ],
+        "file_attributes": {
+            "caption": "",
+            "public_domain": "no",
+            "image_url": ""
+        }
+    },
+    "IMG_1126.png17830949": {
+        "filename": "IMG_1126.png",
+        "size": 17830949,
+        "regions": [
+            {
+                "shape_attributes": {
+                    "name": "polygon",
+                    "all_points_x": [
+                        1333,
+                        1173,
+                        1794,
+                        2022
+                    ],
+                    "all_points_y": [
+                        1105,
+                        3377,
+                        3411,
+                        1150
+                    ]
+                },
+                "region_attributes": {
+                    "name": "not_defined",
+                    "type": "3",
+                    "image_quality": {
+                        "good": true,
+                        "frontal": true,
+                        "good_illumination": true
+                    }
+                }
+            }
+        ],
+        "file_attributes": {
+            "caption": "",
+            "public_domain": "no",
+            "image_url": ""
+        }
+    },
+    "IMG_1127.png17309409": {
+        "filename": "IMG_1127.png",
+        "size": 17309409,
+        "regions": [
+            {
+                "shape_attributes": {
+                    "name": "polygon",
+                    "all_points_x": [
+                        1293,
+                        1031,
+                        1726,
+                        1999
+                    ],
+                    "all_points_y": [
+                        655,
+                        3115,
+                        3178,
+                        740
+                    ]
+                },
+                "region_attributes": {
+                    "name": "not_defined",
+                    "type": "10",
+                    "image_quality": {
+                        "good": true,
+                        "frontal": true,
+                        "good_illumination": true
+                    }
+                }
+            }
+        ],
+        "file_attributes": {
+            "caption": "",
+            "public_domain": "no",
+            "image_url": ""
+        }
+    },
+    "IMG_1128.png14372229": {
+        "filename": "IMG_1128.png",
+        "size": 14372229,
+        "regions": [
+            {
+                "shape_attributes": {
+                    "name": "polygon",
+                    "all_points_x": [
+                        1139,
+                        1054,
+                        1834,
+                        1908
+                    ],
+                    "all_points_y": [
+                        683,
+                        3406,
+                        3451,
+                        718
+                    ]
+                },
+                "region_attributes": {
+                    "name": "not_defined",
+                    "type": "1",
+                    "image_quality": {
+                        "good": true,
+                        "frontal": true,
+                        "good_illumination": true
+                    }
+                }
+            }
+        ],
+        "file_attributes": {
+            "caption": "",
+            "public_domain": "no",
+            "image_url": ""
+        }
+    },
+    "IMG_1129.png12891964": {
+        "filename": "IMG_1129.png",
+        "size": 12891964,
+        "regions": [
+            {
+                "shape_attributes": {
+                    "name": "polygon",
+                    "all_points_x": [
+                        1048,
+                        1031,
+                        1942,
+                        1879
+                    ],
+                    "all_points_y": [
+                        495,
+                        3354,
+                        3366,
+                        444
+                    ]
+                },
+                "region_attributes": {
+                    "name": "not_defined",
+                    "type": "5",
+                    "image_quality": {
+                        "good": true,
+                        "frontal": true,
+                        "good_illumination": true
+                    }
+                }
+            }
+        ],
+        "file_attributes": {
+            "caption": "",
+            "public_domain": "no",
+            "image_url": ""
+        }
+    },
+    "IMG_1130.png16657589": {
+        "filename": "IMG_1130.png",
+        "size": 16657589,
+        "regions": [
+            {
+                "shape_attributes": {
+                    "name": "polygon",
+                    "all_points_x": [
+                        1173,
+                        1219,
+                        2010,
+                        1976
+                    ],
+                    "all_points_y": [
+                        695,
+                        3297,
+                        3257,
+                        729
+                    ]
+                },
+                "region_attributes": {
+                    "name": "not_defined",
+                    "type": "4",
+                    "image_quality": {
+                        "good": true,
+                        "frontal": true,
+                        "good_illumination": true
+                    }
+                }
+            }
+        ],
+        "file_attributes": {
+            "caption": "",
+            "public_domain": "no",
+            "image_url": ""
+        }
+    },
+    "IMG_1131.png14311013": {
+        "filename": "IMG_1131.png",
+        "size": 14311013,
+        "regions": [
+            {
+                "shape_attributes": {
+                    "name": "polygon",
+                    "all_points_x": [
+                        1230,
+                        1310,
+                        2101,
+                        2039
+                    ],
+                    "all_points_y": [
+                        740,
+                        3525,
+                        3525,
+                        695
+                    ]
+                },
+                "region_attributes": {
+                    "name": "not_defined",
+                    "type": "9",
+                    "image_quality": {
+                        "good": true,
+                        "frontal": true,
+                        "good_illumination": true
+                    }
+                }
+            }
+        ],
+        "file_attributes": {
+            "caption": "",
+            "public_domain": "no",
+            "image_url": ""
+        }
+    },
+    "IMG_1132.png21833281": {
+        "filename": "IMG_1132.png",
+        "size": 21833281,
+        "regions": [
+            {
+                "shape_attributes": {
+                    "name": "polygon",
+                    "all_points_x": [
+                        1145,
+                        1128,
+                        1708,
+                        1788
+                    ],
+                    "all_points_y": [
+                        797,
+                        3087,
+                        3070,
+                        837
+                    ]
+                },
+                "region_attributes": {
+                    "name": "not_defined",
+                    "type": "9",
+                    "image_quality": {
+                        "good": true,
+                        "frontal": true,
+                        "good_illumination": true
+                    }
+                }
+            }
+        ],
+        "file_attributes": {
+            "caption": "",
+            "public_domain": "no",
+            "image_url": ""
+        }
+    },
+    "IMG_1133.png21315651": {
+        "filename": "IMG_1133.png",
+        "size": 21315651,
+        "regions": [
+            {
+                "shape_attributes": {
+                    "name": "polygon",
+                    "all_points_x": [
+                        1259,
+                        1241,
+                        1925,
+                        1970
+                    ],
+                    "all_points_y": [
+                        831,
+                        3383,
+                        3377,
+                        780
+                    ]
+                },
+                "region_attributes": {
+                    "name": "not_defined",
+                    "type": "1",
+                    "image_quality": {
+                        "good": true,
+                        "frontal": true,
+                        "good_illumination": true
+                    }
+                }
+            }
+        ],
+        "file_attributes": {
+            "caption": "",
+            "public_domain": "no",
+            "image_url": ""
+        }
+    },
+    "IMG_1134.png17876538": {
+        "filename": "IMG_1134.png",
+        "size": 17876538,
+        "regions": [
+            {
+                "shape_attributes": {
+                    "name": "polygon",
+                    "all_points_x": [
+                        1219,
+                        974,
+                        1743,
+                        1999
+                    ],
+                    "all_points_y": [
+                        587,
+                        3343,
+                        3383,
+                        626
+                    ]
+                },
+                "region_attributes": {
+                    "name": "not_defined",
+                    "type": "10",
+                    "image_quality": {
+                        "good": true,
+                        "frontal": true,
+                        "good_illumination": true
+                    }
+                }
+            }
+        ],
+        "file_attributes": {
+            "caption": "",
+            "public_domain": "no",
+            "image_url": ""
+        }
+    },
+    "IMG_1135.png21307785": {
+        "filename": "IMG_1135.png",
+        "size": 21307785,
+        "regions": [
+            {
+                "shape_attributes": {
+                    "name": "polygon",
+                    "all_points_x": [
+                        1019,
+                        792,
+                        1458,
+                        1731
+                    ],
+                    "all_points_y": [
+                        695,
+                        3132,
+                        3195,
+                        786
+                    ]
+                },
+                "region_attributes": {
+                    "name": "not_defined",
+                    "type": "3",
+                    "image_quality": {
+                        "good": true,
+                        "frontal": true,
+                        "good_illumination": true
+                    }
+                }
+            }
+        ],
+        "file_attributes": {
+            "caption": "",
+            "public_domain": "no",
+            "image_url": ""
+        }
+    },
+    "IMG_1136.png19950231": {
+        "filename": "IMG_1136.png",
+        "size": 19950231,
+        "regions": [
+            {
+                "shape_attributes": {
+                    "name": "polygon",
+                    "all_points_x": [
+                        1196,
+                        923,
+                        1657,
+                        1925
+                    ],
+                    "all_points_y": [
+                        513,
+                        3155,
+                        3223,
+                        587
+                    ]
+                },
+                "region_attributes": {
+                    "name": "not_defined",
+                    "type": "9",
+                    "image_quality": {
+                        "good": true,
+                        "frontal": true,
+                        "good_illumination": true
+                    }
+                }
+            }
+        ],
+        "file_attributes": {
+            "caption": "",
+            "public_domain": "no",
+            "image_url": ""
+        }
+    },
+    "IMG_1137.png17382761": {
+        "filename": "IMG_1137.png",
+        "size": 17382761,
+        "regions": [
+            {
+                "shape_attributes": {
+                    "name": "polygon",
+                    "all_points_x": [
+                        1185,
+                        792,
+                        1623,
+                        2016
+                    ],
+                    "all_points_y": [
+                        604,
+                        3326,
+                        3428,
+                        740
+                    ]
+                },
+                "region_attributes": {
+                    "name": "not_defined",
+                    "type": "6",
+                    "image_quality": {
+                        "good": true,
+                        "frontal": true,
+                        "good_illumination": true
+                    }
+                }
+            }
+        ],
+        "file_attributes": {
+            "caption": "",
+            "public_domain": "no",
+            "image_url": ""
+        }
+    },
+    "IMG_1138.png20338818": {
+        "filename": "IMG_1138.png",
+        "size": 20338818,
+        "regions": [
+            {
+                "shape_attributes": {
+                    "name": "polygon",
+                    "all_points_x": [
+                        1042,
+                        928,
+                        1720,
+                        1783
+                    ],
+                    "all_points_y": [
+                        661,
+                        3257,
+                        3292,
+                        666
+                    ]
+                },
+                "region_attributes": {
+                    "name": "not_defined",
+                    "type": "7",
+                    "image_quality": {
+                        "good": true,
+                        "frontal": true,
+                        "good_illumination": true
+                    }
+                }
+            }
+        ],
+        "file_attributes": {
+            "caption": "",
+            "public_domain": "no",
+            "image_url": ""
+        }
+    },
+    "IMG_1139.png18743009": {
+        "filename": "IMG_1139.png",
+        "size": 18743009,
+        "regions": [
+            {
+                "shape_attributes": {
+                    "name": "polygon",
+                    "all_points_x": [
+                        905,
+                        974,
+                        1748,
+                        1714
+                    ],
+                    "all_points_y": [
+                        809,
+                        3468,
+                        3445,
+                        814
+                    ]
+                },
+                "region_attributes": {
+                    "name": "not_defined",
+                    "type": "6",
+                    "image_quality": {
+                        "good": true,
+                        "frontal": true,
+                        "good_illumination": true
+                    }
+                }
+            }
+        ],
+        "file_attributes": {
+            "caption": "",
+            "public_domain": "no",
+            "image_url": ""
+        }
+    },
+    "IMG_1140.png20842718": {
+        "filename": "IMG_1140.png",
+        "size": 20842718,
+        "regions": [
+            {
+                "shape_attributes": {
+                    "name": "polygon",
+                    "all_points_x": [
+                        1048,
+                        974,
+                        1703,
+                        1777
+                    ],
+                    "all_points_y": [
+                        718,
+                        3229,
+                        3246,
+                        735
+                    ]
+                },
+                "region_attributes": {
+                    "name": "not_defined",
+                    "type": "5",
+                    "image_quality": {
+                        "good": true,
+                        "frontal": true,
+                        "good_illumination": true
+                    }
+                }
+            }
+        ],
+        "file_attributes": {
+            "caption": "",
+            "public_domain": "no",
+            "image_url": ""
+        }
+    },
+    "IMG_1141.png13422621": {
+        "filename": "IMG_1141.png",
+        "size": 13422621,
+        "regions": [
+            {
+                "shape_attributes": {
+                    "name": "polygon",
+                    "all_points_x": [
+                        1036,
+                        1014,
+                        1748,
+                        1857
+                    ],
+                    "all_points_y": [
+                        325,
+                        2916,
+                        2961,
+                        347
+                    ]
+                },
+                "region_attributes": {
+                    "name": "not_defined",
+                    "type": "5",
+                    "image_quality": {
+                        "good": true,
+                        "frontal": true,
+                        "good_illumination": true
+                    }
+                }
+            }
+        ],
+        "file_attributes": {
+            "caption": "",
+            "public_domain": "no",
+            "image_url": ""
+        }
+    },
+    "IMG_1142.png13942329": {
+        "filename": "IMG_1142.png",
+        "size": 13942329,
+        "regions": [
+            {
+                "shape_attributes": {
+                    "name": "polygon",
+                    "all_points_x": [
+                        1344,
+                        1207,
+                        1811,
+                        1999
+                    ],
+                    "all_points_y": [
+                        894,
+                        2933,
+                        2950,
+                        928
+                    ]
+                },
+                "region_attributes": {
+                    "name": "not_defined",
+                    "type": "6",
+                    "image_quality": {
+                        "good": true,
+                        "frontal": true,
+                        "good_illumination": true
+                    }
+                }
+            }
+        ],
+        "file_attributes": {
+            "caption": "",
+            "public_domain": "no",
+            "image_url": ""
+        }
+    },
+    "IMG_1143.png13834649": {
+        "filename": "IMG_1143.png",
+        "size": 13834649,
+        "regions": [
+            {
+                "shape_attributes": {
+                    "name": "polygon",
+                    "all_points_x": [
+                        985,
+                        1014,
+                        1669,
+                        1708
+                    ],
+                    "all_points_y": [
+                        1054,
+                        3240,
+                        3223,
+                        1059
+                    ]
+                },
+                "region_attributes": {
+                    "name": "not_defined",
+                    "type": "7",
+                    "image_quality": {
+                        "good": true,
+                        "frontal": true,
+                        "good_illumination": true
+                    }
+                }
+            }
+        ],
+        "file_attributes": {
+            "caption": "",
+            "public_domain": "no",
+            "image_url": ""
+        }
+    },
+    "IMG_1144.png13543780": {
+        "filename": "IMG_1144.png",
+        "size": 13543780,
+        "regions": [
+            {
+                "shape_attributes": {
+                    "name": "polygon",
+                    "all_points_x": [
+                        923,
+                        957,
+                        1686,
+                        1760
+                    ],
+                    "all_points_y": [
+                        564,
+                        3087,
+                        3058,
+                        558
+                    ]
+                },
+                "region_attributes": {
+                    "name": "not_defined",
+                    "type": "6",
+                    "image_quality": {
+                        "good": true,
+                        "frontal": true,
+                        "good_illumination": true
+                    }
+                }
+            }
+        ],
+        "file_attributes": {
+            "caption": "",
+            "public_domain": "no",
+            "image_url": ""
+        }
+    },
+    "IMG_1145.png12835910": {
+        "filename": "IMG_1145.png",
+        "size": 12835910,
+        "regions": [
+            {
+                "shape_attributes": {
+                    "name": "polygon",
+                    "all_points_x": [
+                        547,
+                        552,
+                        1344,
+                        1464
+                    ],
+                    "all_points_y": [
+                        188,
+                        3030,
+                        3018,
+                        239
+                    ]
+                },
+                "region_attributes": {
+                    "name": "not_defined",
+                    "type": "9",
+                    "image_quality": {
+                        "good": true,
+                        "frontal": true,
+                        "good_illumination": true
+                    }
+                }
+            }
+        ],
+        "file_attributes": {
+            "caption": "",
+            "public_domain": "no",
+            "image_url": ""
+        }
+    },
+    "IMG_1146.png12248556": {
+        "filename": "IMG_1146.png",
+        "size": 12248556,
+        "regions": [
+            {
+                "shape_attributes": {
+                    "name": "polygon",
+                    "all_points_x": [
+                        729,
+                        797,
+                        1583,
+                        1600
+                    ],
+                    "all_points_y": [
+                        456,
+                        3201,
+                        3172,
+                        444
+                    ]
+                },
+                "region_attributes": {
+                    "name": "not_defined",
+                    "type": "3",
+                    "image_quality": {
+                        "good": true,
+                        "frontal": true,
+                        "good_illumination": true
+                    }
+                }
+            }
+        ],
+        "file_attributes": {
+            "caption": "",
+            "public_domain": "no",
+            "image_url": ""
+        }
+    },
+    "IMG_1147.png13159869": {
+        "filename": "IMG_1147.png",
+        "size": 13159869,
+        "regions": [
+            {
+                "shape_attributes": {
+                    "name": "polygon",
+                    "all_points_x": [
+                        740,
+                        700,
+                        1549,
+                        1663
+                    ],
+                    "all_points_y": [
+                        740,
+                        3428,
+                        3451,
+                        780
+                    ]
+                },
+                "region_attributes": {
+                    "name": "not_defined",
+                    "type": "10",
+                    "image_quality": {
+                        "good": true,
+                        "frontal": true,
+                        "good_illumination": true
+                    }
+                }
+            }
+        ],
+        "file_attributes": {
+            "caption": "",
+            "public_domain": "no",
+            "image_url": ""
+        }
+    },
+    "IMG_1148.png12642161": {
+        "filename": "IMG_1148.png",
+        "size": 12642161,
+        "regions": [
+            {
+                "shape_attributes": {
+                    "name": "polygon",
+                    "all_points_x": [
+                        866,
+                        831,
+                        1549,
+                        1697
+                    ],
+                    "all_points_y": [
+                        535,
+                        3206,
+                        3201,
+                        552
+                    ]
+                },
+                "region_attributes": {
+                    "name": "not_defined",
+                    "type": "1",
+                    "image_quality": {
+                        "good": true,
+                        "frontal": true,
+                        "good_illumination": true
+                    }
+                }
+            }
+        ],
+        "file_attributes": {
+            "caption": "",
+            "public_domain": "no",
+            "image_url": ""
+        }
+    },
+    "IMG_1149.png12795319": {
+        "filename": "IMG_1149.png",
+        "size": 12795319,
+        "regions": [
+            {
+                "shape_attributes": {
+                    "name": "polygon",
+                    "all_points_x": [
+                        1002,
+                        945,
+                        1731,
+                        1919
+                    ],
+                    "all_points_y": [
+                        421,
+                        3144,
+                        3155,
+                        467
+                    ]
+                },
+                "region_attributes": {
+                    "name": "not_defined",
+                    "type": "8",
+                    "image_quality": {
+                        "good": true,
+                        "frontal": true,
+                        "good_illumination": true
+                    }
+                }
+            }
+        ],
+        "file_attributes": {
+            "caption": "",
+            "public_domain": "no",
+            "image_url": ""
+        }
+    },
+    "IMG_1150.png11541649": {
+        "filename": "IMG_1150.png",
+        "size": 11541649,
+        "regions": [
+            {
+                "shape_attributes": {
+                    "name": "polygon",
+                    "all_points_x": [
+                        1002,
+                        968,
+                        1652,
+                        1703
+                    ],
+                    "all_points_y": [
+                        1008,
+                        3166,
+                        3178,
+                        980
+                    ]
+                },
+                "region_attributes": {
+                    "name": "not_defined",
+                    "type": "8",
+                    "image_quality": {
+                        "good": true,
+                        "frontal": true,
+                        "good_illumination": true
+                    }
+                }
+            }
+        ],
+        "file_attributes": {
+            "caption": "",
+            "public_domain": "no",
+            "image_url": ""
+        }
+    },
+    "IMG_1151.png11233094": {
+        "filename": "IMG_1151.png",
+        "size": 11233094,
+        "regions": [
+            {
+                "shape_attributes": {
+                    "name": "polygon",
+                    "all_points_x": [
+                        1304,
+                        1219,
+                        1857,
+                        1976
+                    ],
+                    "all_points_y": [
+                        1145,
+                        3201,
+                        3201,
+                        1133
+                    ]
+                },
+                "region_attributes": {
+                    "name": "not_defined",
+                    "type": "1",
+                    "image_quality": {
+                        "good": true,
+                        "frontal": true,
+                        "good_illumination": true
+                    }
+                }
+            }
+        ],
+        "file_attributes": {
+            "caption": "",
+            "public_domain": "no",
+            "image_url": ""
+        }
+    },
+    "IMG_1152.png12147630": {
+        "filename": "IMG_1152.png",
+        "size": 12147630,
+        "regions": [
+            {
+                "shape_attributes": {
+                    "name": "polygon",
+                    "all_points_x": [
+                        1162,
+                        1025,
+                        1765,
+                        1919
+                    ],
+                    "all_points_y": [
+                        695,
+                        2950,
+                        3007,
+                        695
+                    ]
+                },
+                "region_attributes": {
+                    "name": "not_defined",
+                    "type": "10",
+                    "image_quality": {
+                        "good": true,
+                        "frontal": true,
+                        "good_illumination": true
+                    }
+                }
+            }
+        ],
+        "file_attributes": {
+            "caption": "",
+            "public_domain": "no",
+            "image_url": ""
+        }
+    },
+    "IMG_1153.png11173473": {
+        "filename": "IMG_1153.png",
+        "size": 11173473,
+        "regions": [
+            {
+                "shape_attributes": {
+                    "name": "polygon",
+                    "all_points_x": [
+                        1156,
+                        1156,
+                        1788,
+                        1879
+                    ],
+                    "all_points_y": [
+                        831,
+                        3041,
+                        3035,
+                        860
+                    ]
+                },
+                "region_attributes": {
+                    "name": "not_defined",
+                    "type": "3",
+                    "image_quality": {
+                        "good": true,
+                        "frontal": true,
+                        "good_illumination": true
+                    }
+                }
+            }
+        ],
+        "file_attributes": {
+            "caption": "",
+            "public_domain": "no",
+            "image_url": ""
+        }
+    },
+    "IMG_1154.png12100162": {
+        "filename": "IMG_1154.png",
+        "size": 12100162,
+        "regions": [
+            {
+                "shape_attributes": {
+                    "name": "polygon",
+                    "all_points_x": [
+                        1054,
+                        917,
+                        1600,
+                        1788
+                    ],
+                    "all_points_y": [
+                        626,
+                        3018,
+                        3030,
+                        729
+                    ]
+                },
+                "region_attributes": {
+                    "name": "not_defined",
+                    "type": "9",
+                    "image_quality": {
+                        "good": true,
+                        "frontal": true,
+                        "good_illumination": true
+                    }
+                }
+            }
+        ],
+        "file_attributes": {
+            "caption": "",
+            "public_domain": "no",
+            "image_url": ""
+        }
+    },
+    "IMG_1155.png11591901": {
+        "filename": "IMG_1155.png",
+        "size": 11591901,
+        "regions": [
+            {
+                "shape_attributes": {
+                    "name": "polygon",
+                    "all_points_x": [
+                        1253,
+                        1213,
+                        1874,
+                        2010
+                    ],
+                    "all_points_y": [
+                        700,
+                        3087,
+                        3109,
+                        712
+                    ]
+                },
+                "region_attributes": {
+                    "name": "not_defined",
+                    "type": "6",
+                    "image_quality": {
+                        "good": true,
+                        "frontal": true,
+                        "good_illumination": true
+                    }
+                }
+            }
+        ],
+        "file_attributes": {
+            "caption": "",
+            "public_domain": "no",
+            "image_url": ""
+        }
+    },
+    "IMG_1156.png11653544": {
+        "filename": "IMG_1156.png",
+        "size": 11653544,
+        "regions": [
+            {
+                "shape_attributes": {
+                    "name": "polygon",
+                    "all_points_x": [
+                        1287,
+                        1133,
+                        1879,
+                        2062
+                    ],
+                    "all_points_y": [
+                        621,
+                        3166,
+                        3166,
+                        672
+                    ]
+                },
+                "region_attributes": {
+                    "name": "not_defined",
+                    "type": "7",
+                    "image_quality": {
+                        "good": true,
+                        "frontal": true,
+                        "good_illumination": true
+                    }
+                }
+            }
+        ],
+        "file_attributes": {
+            "caption": "",
+            "public_domain": "no",
+            "image_url": ""
+        }
+    },
+    "IMG_1157.png11068272": {
+        "filename": "IMG_1157.png",
+        "size": 11068272,
+        "regions": [
+            {
+                "shape_attributes": {
+                    "name": "polygon",
+                    "all_points_x": [
+                        1076,
+                        1014,
+                        1697,
+                        1913
+                    ],
+                    "all_points_y": [
+                        592,
+                        3109,
+                        3109,
+                        598
+                    ]
+                },
+                "region_attributes": {
+                    "name": "not_defined",
+                    "type": "5",
+                    "image_quality": {
+                        "good": true,
+                        "frontal": true,
+                        "good_illumination": true
+                    }
+                }
+            }
+        ],
+        "file_attributes": {
+            "caption": "",
+            "public_domain": "no",
+            "image_url": ""
+        }
+    },
+    "IMG_1158.png11679048": {
+        "filename": "IMG_1158.png",
+        "size": 11679048,
+        "regions": [
+            {
+                "shape_attributes": {
+                    "name": "polygon",
+                    "all_points_x": [
+                        1372,
+                        888,
+                        1509,
+                        2153
+                    ],
+                    "all_points_y": [
+                        524,
+                        2847,
+                        2978,
+                        700
+                    ]
+                },
+                "region_attributes": {
+                    "name": "not_defined",
+                    "type": "4",
+                    "image_quality": {
+                        "good": true,
+                        "frontal": true,
+                        "good_illumination": true
+                    }
+                }
+            }
+        ],
+        "file_attributes": {
+            "caption": "",
+            "public_domain": "no",
+            "image_url": ""
+        }
+    },
+    "IMG_1159.png12375311": {
+        "filename": "IMG_1159.png",
+        "size": 12375311,
+        "regions": [
+            {
+                "shape_attributes": {
+                    "name": "polygon",
+                    "all_points_x": [
+                        974,
+                        968,
+                        1708,
+                        1714
+                    ],
+                    "all_points_y": [
+                        661,
+                        3144,
+                        3115,
+                        632
+                    ]
+                },
+                "region_attributes": {
+                    "name": "not_defined",
+                    "type": "4",
+                    "image_quality": {
+                        "good": true,
+                        "frontal": true,
+                        "good_illumination": true
+                    }
+                }
+            }
+        ],
+        "file_attributes": {
+            "caption": "",
+            "public_domain": "no",
+            "image_url": ""
+        }
+    },
+    "IMG_1160.png11780130": {
+        "filename": "IMG_1160.png",
+        "size": 11780130,
+        "regions": [
+            {
+                "shape_attributes": {
+                    "name": "polygon",
+                    "all_points_x": [
+                        746,
+                        911,
+                        1788,
+                        1560
+                    ],
+                    "all_points_y": [
+                        735,
+                        3645,
+                        3542,
+                        604
+                    ]
+                },
+                "region_attributes": {
+                    "name": "not_defined",
+                    "type": "5",
+                    "image_quality": {
+                        "good": true,
+                        "frontal": true,
+                        "good_illumination": true
+                    }
+                }
+            }
+        ],
+        "file_attributes": {
+            "caption": "",
+            "public_domain": "no",
+            "image_url": ""
+        }
+    },
+    "IMG_1161.png11277864": {
+        "filename": "IMG_1161.png",
+        "size": 11277864,
+        "regions": [
+            {
+                "shape_attributes": {
+                    "name": "polygon",
+                    "all_points_x": [
+                        1099,
+                        1105,
+                        1942,
+                        1891
+                    ],
+                    "all_points_y": [
+                        456,
+                        3246,
+                        3132,
+                        467
+                    ]
+                },
+                "region_attributes": {
+                    "name": "not_defined",
+                    "type": "6",
+                    "image_quality": {
+                        "good": true,
+                        "frontal": true,
+                        "good_illumination": true
+                    }
+                }
+            }
+        ],
+        "file_attributes": {
+            "caption": "",
+            "public_domain": "no",
+            "image_url": ""
+        }
+    },
+    "IMG_1162.png10824652": {
+        "filename": "IMG_1162.png",
+        "size": 10824652,
+        "regions": [
+            {
+                "shape_attributes": {
+                    "name": "polygon",
+                    "all_points_x": [
+                        871,
+                        1139,
+                        2016,
+                        1708
+                    ],
+                    "all_points_y": [
+                        416,
+                        3440,
+                        3354,
+                        290
+                    ]
+                },
+                "region_attributes": {
+                    "name": "not_defined",
+                    "type": "3",
+                    "image_quality": {
+                        "good": true,
+                        "frontal": true,
+                        "good_illumination": true
+                    }
+                }
+            }
+        ],
+        "file_attributes": {
+            "caption": "",
+            "public_domain": "no",
+            "image_url": ""
+        }
+    },
+    "IMG_1163.png12082755": {
+        "filename": "IMG_1163.png",
+        "size": 12082755,
+        "regions": [
+            {
+                "shape_attributes": {
+                    "name": "polygon",
+                    "all_points_x": [
+                        672,
+                        769,
+                        1606,
+                        1492
+                    ],
+                    "all_points_y": [
+                        524,
+                        3354,
+                        3280,
+                        513
+                    ]
+                },
+                "region_attributes": {
+                    "name": "not_defined",
+                    "type": "1",
+                    "image_quality": {
+                        "good": true,
+                        "frontal": true,
+                        "good_illumination": true
+                    }
+                }
+            }
+        ],
+        "file_attributes": {
+            "caption": "",
+            "public_domain": "no",
+            "image_url": ""
+        }
+    },
+    "IMG_1164.png11892517": {
+        "filename": "IMG_1164.png",
+        "size": 11892517,
+        "regions": [
+            {
+                "shape_attributes": {
+                    "name": "polygon",
+                    "all_points_x": [
+                        558,
+                        1213,
+                        2079,
+                        1486
+                    ],
+                    "all_points_y": [
+                        359,
+                        3502,
+                        3275,
+                        159
+                    ]
+                },
+                "region_attributes": {
+                    "name": "not_defined",
+                    "type": "8",
+                    "image_quality": {
+                        "good": true,
+                        "frontal": true,
+                        "good_illumination": true
+                    }
+                }
+            }
+        ],
+        "file_attributes": {
+            "caption": "",
+            "public_domain": "no",
+            "image_url": ""
+        }
+    },
+    "IMG_1165.png11589020": {
+        "filename": "IMG_1165.png",
+        "size": 11589020,
+        "regions": [
+            {
+                "shape_attributes": {
+                    "name": "polygon",
+                    "all_points_x": [
+                        928,
+                        962,
+                        1771,
+                        1794
+                    ],
+                    "all_points_y": [
+                        211,
+                        3314,
+                        3280,
+                        268
+                    ]
+                },
+                "region_attributes": {
+                    "name": "not_defined",
+                    "type": "7",
+                    "image_quality": {
+                        "good": true,
+                        "frontal": true,
+                        "good_illumination": true
+                    }
+                }
+            }
+        ],
+        "file_attributes": {
+            "caption": "",
+            "public_domain": "no",
+            "image_url": ""
+        }
+    },
+    "IMG_1166.png12178121": {
+        "filename": "IMG_1166.png",
+        "size": 12178121,
+        "regions": [
+            {
+                "shape_attributes": {
+                    "name": "polygon",
+                    "all_points_x": [
+                        877,
+                        763,
+                        1652,
+                        1760
+                    ],
+                    "all_points_y": [
+                        285,
+                        3286,
+                        3303,
+                        319
+                    ]
+                },
+                "region_attributes": {
+                    "name": "not_defined",
+                    "type": "9",
+                    "image_quality": {
+                        "good": true,
+                        "frontal": true,
+                        "good_illumination": true
+                    }
+                }
+            }
+        ],
+        "file_attributes": {
+            "caption": "",
+            "public_domain": "no",
+            "image_url": ""
+        }
+    },
+    "IMG_1167.png11762963": {
+        "filename": "IMG_1167.png",
+        "size": 11762963,
+        "regions": [
+            {
+                "shape_attributes": {
+                    "name": "polygon",
+                    "all_points_x": [
+                        968,
+                        1002,
+                        1879,
+                        1800
+                    ],
+                    "all_points_y": [
+                        592,
+                        3508,
+                        3468,
+                        569
+                    ]
+                },
+                "region_attributes": {
+                    "name": "not_defined",
+                    "type": "10",
+                    "image_quality": {
+                        "good": true,
+                        "frontal": true,
+                        "good_illumination": true
+                    }
+                }
+            }
+        ],
+        "file_attributes": {
+            "caption": "",
+            "public_domain": "no",
+            "image_url": ""
+        }
+    },
+    "IMG_1168.png13174778": {
+        "filename": "IMG_1168.png",
+        "size": 13174778,
+        "regions": [
+            {
+                "shape_attributes": {
+                    "name": "polygon",
+                    "all_points_x": [
+                        1036,
+                        923,
+                        1606,
+                        1748
+                    ],
+                    "all_points_y": [
+                        501,
+                        2944,
+                        2967,
+                        558
+                    ]
+                },
+                "region_attributes": {
+                    "name": "not_defined",
+                    "type": "7",
+                    "image_quality": {
+                        "good": true,
+                        "frontal": true,
+                        "good_illumination": true
+                    }
+                }
+            }
+        ],
+        "file_attributes": {
+            "caption": "",
+            "public_domain": "no",
+            "image_url": ""
+        }
+    },
+    "IMG_1169.png13124087": {
+        "filename": "IMG_1169.png",
+        "size": 13124087,
+        "regions": [
+            {
+                "shape_attributes": {
+                    "name": "polygon",
+                    "all_points_x": [
+                        1116,
+                        1219,
+                        1970,
+                        1936
+                    ],
+                    "all_points_y": [
+                        416,
+                        3081,
+                        3047,
+                        399
+                    ]
+                },
+                "region_attributes": {
+                    "name": "not_defined",
+                    "type": "10",
+                    "image_quality": {
+                        "good": true,
+                        "frontal": true,
+                        "good_illumination": true
+                    }
+                }
+            }
+        ],
+        "file_attributes": {
+            "caption": "",
+            "public_domain": "no",
+            "image_url": ""
+        }
+    },
+    "IMG_1170.png12292689": {
+        "filename": "IMG_1170.png",
+        "size": 12292689,
+        "regions": [
+            {
+                "shape_attributes": {
+                    "name": "polygon",
+                    "all_points_x": [
+                        1048,
+                        894,
+                        1754,
+                        1942
+                    ],
+                    "all_points_y": [
+                        399,
+                        3428,
+                        3480,
+                        461
+                    ]
+                },
+                "region_attributes": {
+                    "name": "not_defined",
+                    "type": "9",
+                    "image_quality": {
+                        "good": true,
+                        "frontal": true,
+                        "good_illumination": true
+                    }
+                }
+            }
+        ],
+        "file_attributes": {
+            "caption": "",
+            "public_domain": "no",
+            "image_url": ""
+        }
+    },
+    "IMG_1171.png12328643": {
+        "filename": "IMG_1171.png",
+        "size": 12328643,
+        "regions": [
+            {
+                "shape_attributes": {
+                    "name": "polygon",
+                    "all_points_x": [
+                        826,
+                        980,
+                        1800,
+                        1714
+                    ],
+                    "all_points_y": [
+                        564,
+                        3451,
+                        3451,
+                        513
+                    ]
+                },
+                "region_attributes": {
+                    "name": "not_defined",
+                    "type": "8",
+                    "image_quality": {
+                        "good": true,
+                        "frontal": true,
+                        "good_illumination": true
+                    }
+                }
+            }
+        ],
+        "file_attributes": {
+            "caption": "",
+            "public_domain": "no",
+            "image_url": ""
+        }
+    },
+    "IMG_1172.png11699064": {
+        "filename": "IMG_1172.png",
+        "size": 11699064,
+        "regions": [
+            {
+                "shape_attributes": {
+                    "name": "polygon",
+                    "all_points_x": [
+                        911,
+                        1048,
+                        1970,
+                        1834
+                    ],
+                    "all_points_y": [
+                        444,
+                        3622,
+                        3559,
+                        353
+                    ]
+                },
+                "region_attributes": {
+                    "name": "not_defined",
+                    "type": "1",
+                    "image_quality": {
+                        "good": true,
+                        "frontal": true,
+                        "good_illumination": true
+                    }
+                }
+            }
+        ],
+        "file_attributes": {
+            "caption": "",
+            "public_domain": "no",
+            "image_url": ""
+        }
+    },
+    "IMG_1173.png12561902": {
+        "filename": "IMG_1173.png",
+        "size": 12561902,
+        "regions": [
+            {
+                "shape_attributes": {
+                    "name": "polygon",
+                    "all_points_x": [
+                        763,
+                        746,
+                        1577,
+                        1686
+                    ],
+                    "all_points_y": [
+                        382,
+                        3451,
+                        3463,
+                        433
+                    ]
+                },
+                "region_attributes": {
+                    "name": "not_defined",
+                    "type": "3",
+                    "image_quality": {
+                        "good": true,
+                        "frontal": true,
+                        "good_illumination": true
+                    }
+                }
+            }
+        ],
+        "file_attributes": {
+            "caption": "",
+            "public_domain": "no",
+            "image_url": ""
+        }
+    },
+    "IMG_1174.png12647017": {
+        "filename": "IMG_1174.png",
+        "size": 12647017,
+        "regions": [
+            {
+                "shape_attributes": {
+                    "name": "polygon",
+                    "all_points_x": [
+                        1025,
+                        1236,
+                        2067,
+                        1822
+                    ],
+                    "all_points_y": [
+                        649,
+                        3514,
+                        3428,
+                        575
+                    ]
+                },
+                "region_attributes": {
+                    "name": "not_defined",
+                    "type": "4",
+                    "image_quality": {
+                        "good": true,
+                        "frontal": true,
+                        "good_illumination": true
+                    }
+                }
+            }
+        ],
+        "file_attributes": {
+            "caption": "",
+            "public_domain": "no",
+            "image_url": ""
+        }
+    },
+    "IMG_1175.png12424812": {
+        "filename": "IMG_1175.png",
+        "size": 12424812,
+        "regions": [
+            {
+                "shape_attributes": {
+                    "name": "polygon",
+                    "all_points_x": [
+                        1093,
+                        1173,
+                        2039,
+                        1902
+                    ],
+                    "all_points_y": [
+                        535,
+                        3548,
+                        3440,
+                        490
+                    ]
+                },
+                "region_attributes": {
+                    "name": "not_defined",
+                    "type": "5",
+                    "image_quality": {
+                        "good": true,
+                        "frontal": true,
+                        "good_illumination": true
+                    }
+                }
+            }
+        ],
+        "file_attributes": {
+            "caption": "",
+            "public_domain": "no",
+            "image_url": ""
+        }
+    },
+    "IMG_1176.png12432451": {
+        "filename": "IMG_1176.png",
+        "size": 12432451,
+        "regions": [
+            {
+                "shape_attributes": {
+                    "name": "polygon",
+                    "all_points_x": [
+                        1042,
+                        962,
+                        1765,
+                        1874
+                    ],
+                    "all_points_y": [
+                        495,
+                        3445,
+                        3451,
+                        558
+                    ]
+                },
+                "region_attributes": {
+                    "name": "not_defined",
+                    "type": "4",
+                    "image_quality": {
+                        "good": true,
+                        "frontal": true,
+                        "good_illumination": true
+                    }
+                }
+            }
+        ],
+        "file_attributes": {
+            "caption": "",
+            "public_domain": "no",
+            "image_url": ""
+        }
+    }
+}

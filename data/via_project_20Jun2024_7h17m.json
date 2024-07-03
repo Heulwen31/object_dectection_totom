@@ -1,0 +1,336 @@
+{
+    "_via_settings": {
+        "ui": {
+            "annotation_editor_height": 25,
+            "annotation_editor_fontsize": 0.8,
+            "leftsidebar_width": 18,
+            "image_grid": {
+                "img_height": 80,
+                "rshape_fill": "none",
+                "rshape_fill_opacity": 0.3,
+                "rshape_stroke": "yellow",
+                "rshape_stroke_width": 2,
+                "show_region_shape": true,
+                "show_image_policy": "all"
+            },
+            "image": {
+                "region_label": "__via_region_id__",
+                "region_color": "__via_default_region_color__",
+                "region_label_font": "10px Sans",
+                "on_image_annotation_editor_placement": "NEAR_REGION"
+            }
+        },
+        "core": {
+            "buffer_size": 18,
+            "filepath": {},
+            "default_filepath": ""
+        },
+        "project": {
+            "name": "via_project_20Jun2024_7h17m"
+        }
+    },
+    "_via_img_metadata": {
+        "img11.png28978": {
+            "filename": "img11.png",
+            "size": 28978,
+            "regions": [
+                {
+                    "shape_attributes": {
+                        "name": "rect",
+                        "x": 21,
+                        "y": 21,
+                        "width": 79,
+                        "height": 245
+                    },
+                    "region_attributes": {
+                        "name": "Nhat",
+                        "type": "bird",
+                        "image_quality": {
+                            "good": true,
+                            "frontal": true,
+                            "good_illumination": true
+                        }
+                    }
+                }
+            ],
+            "file_attributes": {
+                "caption": "",
+                "public_domain": "no",
+                "image_url": ""
+            }
+        },
+        "img10.png28584": {
+            "filename": "img10.png",
+            "size": 28584,
+            "regions": [
+                {
+                    "shape_attributes": {
+                        "name": "rect",
+                        "x": 61,
+                        "y": 28,
+                        "width": 81,
+                        "height": 245
+                    },
+                    "region_attributes": {
+                        "name": "Nhi",
+                        "type": "bird",
+                        "image_quality": {
+                            "good": true,
+                            "frontal": true,
+                            "good_illumination": true
+                        }
+                    }
+                }
+            ],
+            "file_attributes": {
+                "caption": "",
+                "public_domain": "no",
+                "image_url": ""
+            }
+        },
+        "img9.png26129": {
+            "filename": "img9.png",
+            "size": 26129,
+            "regions": [
+                {
+                    "shape_attributes": {
+                        "name": "rect",
+                        "x": 55,
+                        "y": 28,
+                        "width": 82,
+                        "height": 243
+                    },
+                    "region_attributes": {
+                        "name": "Tam",
+                        "type": "bird",
+                        "image_quality": {
+                            "good": true,
+                            "frontal": true,
+                            "good_illumination": true
+                        }
+                    }
+                }
+            ],
+            "file_attributes": {
+                "caption": "",
+                "public_domain": "no",
+                "image_url": ""
+            }
+        },
+        "img8.png27037": {
+            "filename": "img8.png",
+            "size": 27037,
+            "regions": [
+                {
+                    "shape_attributes": {
+                        "name": "rect",
+                        "x": 53,
+                        "y": 25,
+                        "width": 81,
+                        "height": 246
+                    },
+                    "region_attributes": {
+                        "name": "Tu",
+                        "type": "bird",
+                        "image_quality": {
+                            "good": true,
+                            "frontal": true,
+                            "good_illumination": true
+                        }
+                    }
+                }
+            ],
+            "file_attributes": {
+                "caption": "",
+                "public_domain": "no",
+                "image_url": ""
+            }
+        },
+        "img7.png26033": {
+            "filename": "img7.png",
+            "size": 26033,
+            "regions": [
+                {
+                    "shape_attributes": {
+                        "name": "rect",
+                        "x": 23,
+                        "y": 33,
+                        "width": 83,
+                        "height": 245
+                    },
+                    "region_attributes": {
+                        "name": "Ngu",
+                        "type": "bird",
+                        "image_quality": {
+                            "good": true,
+                            "frontal": true,
+                            "good_illumination": true
+                        }
+                    }
+                }
+            ],
+            "file_attributes": {
+                "caption": "",
+                "public_domain": "no",
+                "image_url": ""
+            }
+        },
+        "img6.png26498": {
+            "filename": "img6.png",
+            "size": 26498,
+            "regions": [
+                {
+                    "shape_attributes": {
+                        "name": "rect",
+                        "x": 12,
+                        "y": 24,
+                        "width": 83,
+                        "height": 246
+                    },
+                    "region_attributes": {
+                        "name": "Luc",
+                        "type": "cup",
+                        "image_quality": {
+                            "good": true,
+                            "frontal": true,
+                            "good_illumination": true
+                        }
+                    }
+                }
+            ],
+            "file_attributes": {
+                "caption": "",
+                "public_domain": "no",
+                "image_url": ""
+            }
+        },
+        "img5.png24725": {
+            "filename": "img5.png",
+            "size": 24725,
+            "regions": [
+                {
+                    "shape_attributes": {
+                        "name": "rect",
+                        "x": 37,
+                        "y": 37,
+                        "width": 79,
+                        "height": 244
+                    },
+                    "region_attributes": {
+                        "name": "Bat",
+                        "type": "cup",
+                        "image_quality": {
+                            "good": true,
+                            "frontal": true,
+                            "good_illumination": true
+                        }
+                    }
+                }
+            ],
+            "file_attributes": {
+                "caption": "",
+                "public_domain": "no",
+                "image_url": ""
+            }
+        },
+        "img4.png112381": {
+            "filename": "img4.png",
+            "size": 112381,
+            "regions": [
+                {
+                    "shape_attributes": {
+                        "name": "rect",
+                        "x": 48,
+                        "y": 31,
+                        "width": 184,
+                        "height": 543
+                    },
+                    "region_attributes": {
+                        "name": "Bat",
+                        "type": "bird",
+                        "image_quality": {
+                            "good": true,
+                            "frontal": true,
+                            "good_illumination": true
+                        }
+                    }
+                }
+            ],
+            "file_attributes": {
+                "caption": "",
+                "public_domain": "no",
+                "image_url": ""
+            }
+        }
+    },
+    "_via_attributes": {
+        "region": {
+            "name": {
+                "type": "text",
+                "description": "Name of the object",
+                "default_value": "not_defined"
+            },
+            "type": {
+                "type": "dropdown",
+                "description": "Category of object",
+                "options": {
+                    "bird": "Bird",
+                    "human": "Human",
+                    "cup": "Cup (object)",
+                    "unknown": "Unknown (object)"
+                },
+                "default_options": {
+                    "unknown": true
+                }
+            },
+            "image_quality": {
+                "type": "checkbox",
+                "description": "Quality of image region",
+                "options": {
+                    "blur": "Blurred region",
+                    "good_illumination": "Good Illumination",
+                    "frontal": "Object in Frontal View"
+                },
+                "default_options": {
+                    "good": true,
+                    "frontal": true,
+                    "good_illumination": true
+                }
+            }
+        },
+        "file": {
+            "caption": {
+                "type": "text",
+                "description": "",
+                "default_value": ""
+            },
+            "public_domain": {
+                "type": "radio",
+                "description": "",
+                "options": {
+                    "yes": "Yes",
+                    "no": "No"
+                },
+                "default_options": {
+                    "no": true
+                }
+            },
+            "image_url": {
+                "type": "text",
+                "description": "",
+                "default_value": ""
+            }
+        }
+    },
+    "_via_data_format_version": "2.0.10",
+    "_via_image_id_list": [
+        "img11.png28978",
+        "img10.png28584",
+        "img9.png26129",
+        "img8.png27037",
+        "img7.png26033",
+        "img6.png26498",
+        "img5.png24725",
+        "img4.png112381"
+    ]
+}
